@@ -1,4 +1,5 @@
 ### GoogleLoginHelper
+important: enable google plus api in google developer console. and add your project key.. 
 
 ### How to use
 
