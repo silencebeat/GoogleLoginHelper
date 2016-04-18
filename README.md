@@ -2,15 +2,17 @@
 
 # How to use
 
-add this 3 dependencies into gradle
+1. add this 3 dependencies into gradle
     ```
     compile 'com.google.android.gms:play-services-identity:8.3.0'
     compile 'com.google.android.gms:play-services-plus:8.3.0'
     compile 'com.google.android.gms:play-services-auth:8.3.0'
     ```
-Copy GoogleLoginHelper.java into your project
+    
+    
+2. Copy GoogleLoginHelper.java into your project
 
-# Example
+# Example in activity class
   ```
   import ...
   
