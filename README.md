@@ -1,6 +1,6 @@
-# GoogleLoginHelper
+### GoogleLoginHelper
 
-# How to use
+### How to use
 
 1. add this 3 dependencies into gradle
     ```
@@ -12,7 +12,7 @@
     
 2. Copy GoogleLoginHelper.java into your project
 
-# Example in activity class
+### Example in activity class
   ```
   import ...
   
